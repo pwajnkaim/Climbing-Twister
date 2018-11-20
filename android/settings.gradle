@@ -1,0 +1,3 @@
+rootProject.name = 'ClimbingTwister'
+
+include ':app'
